@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+}
+
+.container {
+  margin: 0 auto;
+  padding: 10px;
+  max-width: 500px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.input {
+  font-size: 24px;
+}
